@@ -14,7 +14,7 @@ object Hello extends App {
   println("Hola mundo!".toUpperCase)
 
   val radius = 10
-  val pi = 3.141599899
+  val pi = 3.14159989900
 
   println("Area = " + pi * radius * radius)
 
